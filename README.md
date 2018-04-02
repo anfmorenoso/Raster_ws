@@ -20,10 +20,9 @@ Máximo 3.
 
 Complete la tabla:
 
-| Integrante | github nick |
-|------------|-------------|
-|            |             |
-
+|      Integrante      | github nick |
+| Andres Felipe Moreno | anfmorenoso |
+| Luis Eduardo Martin  | lemartinp   |
 ## Discusión
 
 Describa los resultados obtenidos. Qué técnicas de anti-aliasing y shading se exploraron? Adjunte las referencias. Discuta las dificultades encontradas.
